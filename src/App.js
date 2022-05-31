@@ -1,8 +1,8 @@
 import React , { Component}  from 'react';
 import {useState} from 'react'
-import AddTaskForm from './components/AddTaskForm.jsx'
-import UpdateForm from './components/UpdateForm.jsx'
-import ToDo from './components/ToDo.jsx'
+import AddTaskForm from './components/AddTaskForm.js'
+import UpdateForm from './components/UpdateForm.js'
+import ToDo from './components/ToDo.js'
 
 import 'bootstrap/dist/css/bootstrap.min.css'
 

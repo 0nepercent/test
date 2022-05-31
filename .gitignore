@@ -9,7 +9,7 @@
 /coverage
 
 # production
-/build
+/buildgit config core.autocrlf true
 
 # misc
 .DS_Store
